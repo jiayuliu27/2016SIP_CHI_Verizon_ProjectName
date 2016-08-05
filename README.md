@@ -1,10 +1,10 @@
 # 2016SIP_CHI_Verizon_ProjectName
 Sample project 
-- main things to note:
-    code organization
+- main things to note:\n
+\tcode organization\n
     how github works
         commits, merge requests, conflicts
-- General guidelines
+- General guidelines 
     before you pull code from your repo, make sure that you are on the right branch on command line
         git branch or git status will tell you which branch you are on
     switch branch if needed
