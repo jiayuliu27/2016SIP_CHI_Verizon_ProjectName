@@ -2,8 +2,7 @@
 Sample project 
 - main things to note:
  - code organization
- - how github works
-        commits, merge requests, conflicts
+ - how github works commits, merge requests, conflicts
 - General guidelines 
     - before you pull code from your repo, make sure that you are on the right branch on command line
         - git branch or git status will tell you which branch you are on
