@@ -14,9 +14,9 @@ Sample project
         - `git checkout -b fix_homepage_button_link`
                             // this creates a new branch named fix_homepage_button_link
                             // and is a copy of the branch you checked out in prev step
-    - then you can go into your project folder and make the changes
+    - then you can go into your project folder and make changes in your files, add or delete file
     - after you're done making a change, commit the changes with a descriptive message
-        - `git add myfile.html` // adds myfile.html to the stream to be committed
+        - `git add myfile.html` // adds myfile.html to the staging area to be committed
         - `git commit -m "change button links"` // commits the myfile.html changes with the message
     - then push your code to your repository
         - `git push origin fix_homepage_button_link` 
